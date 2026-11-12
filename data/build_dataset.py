@@ -2,7 +2,7 @@
 Build the modeling dataset from the anonymized phone repair lab workbook.
 
 Source: demo/laboratorio_demo.xlsx from
-https://github.com/RamaDiBer/powerbi-laboratorio-celulares
+https://github.com/Ramiro-DiBernardo/powerbi-laboratorio-celulares
 (technician names, employee IDs and IMEIs were already replaced with fake ones).
 
 The workbook has one sheet per technician, filled by hand. This script:

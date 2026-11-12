@@ -42,7 +42,7 @@
 
 ## 🗂️ Data
 
-`data/repairs.csv` has **24,404 visits** to a repair bench (Nov 2025 – Oct 2026). Technician names and device identifiers are **fake**, and IMEIs were replaced with a numeric `device_id`. The source workbook (also anonymized) and the Power BI dashboard built on it are in [powerbi-laboratorio-celulares](https://github.com/RamaDiBer/powerbi-laboratorio-celulares).
+`data/repairs.csv` has **24,404 visits** to a repair bench (Nov 2025 – Oct 2026). Technician names and device identifiers are **fake**, and IMEIs were replaced with a numeric `device_id`. The source workbook (also anonymized) and the Power BI dashboard built on it are in [powerbi-laboratorio-celulares](https://github.com/Ramiro-DiBernardo/powerbi-laboratorio-celulares).
 
 *Notes, statuses and business-unit codes are in Spanish, as logged by the technicians.*
 
