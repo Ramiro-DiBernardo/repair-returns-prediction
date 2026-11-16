@@ -7,7 +7,7 @@
 
 > A machine learning project on **real (anonymized) operations data** from a phone repair lab: can we tell, at the moment of the repair, which devices will come back to a repair bench within 60 days?
 
-📓 **Notebook:** [`notebooks/repair_returns.ipynb`](notebooks/repair_returns.ipynb)
+📓 **Notebook:** [`notebooks/repair_returns.ipynb`](notebooks/repair_returns.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ramiro-DiBernardo/repair-returns-prediction/blob/main/notebooks/repair_returns.ipynb)
 
 ![Return rate by repair level, technician and business unit](images/return_rate_by_group.png)
 
